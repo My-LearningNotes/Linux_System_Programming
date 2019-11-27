@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Linux System Programming learning note'
+project = 'Linux System Programming'
 copyright = '2019, sylar.liu'
 author = 'sylar.liu'
 

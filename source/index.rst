@@ -1,5 +1,5 @@
-Linux System Programming learning note
-======================================
+Linux System Programming
+========================
 
 .. toctree::
     :maxdepth: 1
